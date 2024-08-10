@@ -1,4 +1,4 @@
-Welcome to MY " Online Portfolio". This is a responsive, modern, and user-friendly website built using the latest web technologies.
+Welcome to MY  "**Online Portfolio**". This is a responsive, modern, and user-friendly website built using the latest web technologies.
 
 ## Table of Contents
 
@@ -44,6 +44,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any inquiries, suggestions, or issues, feel free to reach out:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- **Email**: [umamaheswari2931@gmail.com](mailto:umamaheswari2931@gmail.com)
+- **GitHub**: [github.com/umamaheswari-2931](https://github.com/umamaheswari-2931)
+- **LinkedIn**: [linkedin.com/in/umamaheswari2931](https://www.linkedin.com/in/umamaheswari2931/)
