@@ -323,8 +323,9 @@ body {
 /* Small devices (phones, less than 768px) */
 @media (max-width: 767px) {
   .flip-card {
-      width: 200px;
-      height: 200px;
+      width: 300px;
+      height: 300px;
+      margin-left: auto;
   }
 
   .flip-card-front, .flip-card-back {
