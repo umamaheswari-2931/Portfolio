@@ -41,6 +41,42 @@ nav {
   color: #ce83a6;
   border-radius: 5px;
 }
+/*Scroll Bar*/
+.scroll-container {
+  width: 300px;
+  height: 400px;
+  position: relative;
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #333;
+}
+
+.content {
+  width: 100%;
+  height: 100%;
+  overflow-y: scroll;
+  padding-right: 20px; /* Add space for the custom scrollbar */
+}
+
+.custom-scrollbar {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 10px;
+  height: 100%;
+  background-color: #555;
+  border-radius: 5px;
+}
+
+.custom-scroll-thumb {
+  width: 100%;
+  height: 50px; /* Initial thumb height */
+  background-color: #888;
+  border-radius: 5px;
+  position: relative;
+  cursor: pointer;
+}
+
 /*About me section*/
 body {
   margin: 0;
